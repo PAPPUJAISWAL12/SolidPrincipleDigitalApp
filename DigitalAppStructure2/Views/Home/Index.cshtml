@@ -1,0 +1,13 @@
+﻿@model IEnumerable<Student>
+<div class="d-flex flex-wrap flex-md-row">
+    @foreach(var i in Model)
+    {
+        <div class="card m-3">
+            <div class="card-body">
+                <p>@i.Id</p>
+                <p>@i.Name</p>
+                <a asp-action="Details" asp-route-id="@i.Id" asp-route-name="@i.Name">Details</a>
+            </div>
+        </div>
+    }
+</div>
