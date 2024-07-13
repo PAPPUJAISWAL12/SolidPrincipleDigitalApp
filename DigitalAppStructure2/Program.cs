@@ -1,3 +1,6 @@
+using DigitalAppStructure2.Security;
+using DigitalAppStructure2.SolidPrinciple;
+
 namespace DigitalAppStructure2
 {
     public class Program
@@ -6,6 +9,12 @@ namespace DigitalAppStructure2
         {
             var builder = WebApplication.CreateBuilder(args);
             builder.Services.AddControllersWithViews();
+
+            //Dependency Injection
+            builder.Services.AddScoped<IStudentService,StudentService>();
+            builder.Services.AddScoped<IStudentRepositpry,StudentRepository>();
+            builder.Services.AddSingleton<DataSecurityProvider>();
+
             var app = builder.Build();
 
             app.UseRouting();

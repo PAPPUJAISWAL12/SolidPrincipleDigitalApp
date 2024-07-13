@@ -8,9 +8,9 @@ namespace DigitalAppStructure2.SolidPrinciple
         {
             List<Student> s = new()
             {
-                new Student { Id=1,Name="Hari",Address="Ktm"},
-                new Student { Id=1,Name="Hari",Address="Ktm"},
-                new Student { Id=1,Name="Hari",Address="Ktm"},
+                new Student { Id=1,Name="Hari1",Address="Ktm"},
+                new Student { Id=2,Name="Hari2",Address="Ktm"},
+                new Student { Id=3,Name="Hari3",Address="Ktm"},
             };
             return s;
         }

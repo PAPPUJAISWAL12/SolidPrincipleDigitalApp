@@ -6,7 +6,7 @@
             <div class="card-body">
                 <p>@i.Id</p>
                 <p>@i.Name</p>
-                <a asp-action="Details" asp-route-id="@i.Id" asp-route-name="@i.Name">Details</a>
+                <a asp-action="Details" asp-route-id="@i.encId" >Details</a>
             </div>
         </div>
     }

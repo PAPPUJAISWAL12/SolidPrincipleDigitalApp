@@ -27,3 +27,4 @@ H:\visual studio\DigitalAppStructure2\DigitalAppStructure2\obj\Debug\net8.0\ref\
 H:\visual studio\DigitalAppStructure2\DigitalAppStructure2\obj\Debug\net8.0\DigitalAppStructure2.RazorAssemblyInfo.cache
 H:\visual studio\DigitalAppStructure2\DigitalAppStructure2\obj\Debug\net8.0\DigitalAppStructure2.RazorAssemblyInfo.cs
 H:\visual studio\DigitalAppStructure2\DigitalAppStructure2\bin\Debug\net8.0\libman.json
+H:\visual studio\DigitalAppStructure2\DigitalAppStructure2\obj\Debug\net8.0\DigitalAppStructure2.sourcelink.json
