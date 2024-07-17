@@ -1,5 +1,7 @@
+using DigitalAppStructure2.Models;
 using DigitalAppStructure2.Security;
 using DigitalAppStructure2.SolidPrinciple;
+using Microsoft.EntityFrameworkCore;
 
 namespace DigitalAppStructure2
 {
@@ -11,10 +13,11 @@ namespace DigitalAppStructure2
             builder.Services.AddControllersWithViews();
 
             //Dependency Injection
+            builder.Services.AddDbContext<CrudDigitalAppContext>(o => o.UseSqlServer(builder.Configuration["Conn"]));
             builder.Services.AddScoped<IStudentService,StudentService>();
             builder.Services.AddScoped<IStudentRepositpry,StudentRepository>();
             builder.Services.AddSingleton<DataSecurityProvider>();
-
+            
             var app = builder.Build();
 
             app.UseRouting();

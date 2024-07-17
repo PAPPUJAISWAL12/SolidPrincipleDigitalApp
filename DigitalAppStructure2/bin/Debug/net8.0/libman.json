@@ -5,6 +5,22 @@
     {
       "library": "bootstrap@5.3.3",
       "destination": "wwwroot/lib/bootstrap/"
+    },
+    {
+      "library": "flowbite@2.4.1",
+      "destination": "wwwroot/lib/flowbite/"
+    },
+    {
+      "library": "jquery@3.7.1",
+      "destination": "wwwroot/lib/jquery/"
+    },
+    {
+      "library": "jquery-validation-unobtrusive@4.0.0",
+      "destination": "wwwroot/lib/jquery-validation-unobtrusive/"
+    },
+    {
+      "library": "jquery-ajax-unobtrusive@3.2.6",
+      "destination": "wwwroot/lib/jquery-ajax-unobtrusive/"
     }
   ]
 }

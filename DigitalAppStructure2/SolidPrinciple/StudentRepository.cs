@@ -4,29 +4,28 @@ namespace DigitalAppStructure2.SolidPrinciple
 {
     public class StudentRepository : IStudentRepositpry
     {
-        public List<Student> StudentList()
+        private readonly CrudDigitalAppContext _appContext;
+       public StudentRepository(CrudDigitalAppContext appContext)
+       {
+            _appContext = appContext;
+       }
+        public IEnumerable<UserList> GetList()
         {
-            List<Student> s = new()
-            {
-                new Student { Id=1,Name="Hari1",Address="Ktm"},
-                new Student { Id=2,Name="Hari2",Address="Ktm"},
-                new Student { Id=3,Name="Hari3",Address="Ktm"},
-            };
-            return s;
-        }
-        public IEnumerable<Student> GetList()
-        {    return StudentList();
+            var u = _appContext.UserLists.ToList();
+            return u;
         }
 
-        public void AddStudent(Student std)
+        public void AddStudent(UserList user)
         {
         }
 
-        public Student GetStudentById(int id)
+        public UserList GetStudentById(int id)
         {
-            return StudentList().Where(x => x.Id == id).First();
+            var a= _appContext.UserLists.Where(predicate: x => x.UserId == id).First();
+            return a;
+                
         }
-        public void UpdateStudent(Student student)
+        public void UpdateStudent(UserList user)
         {
         }
         public void DeleteStudent(int id)

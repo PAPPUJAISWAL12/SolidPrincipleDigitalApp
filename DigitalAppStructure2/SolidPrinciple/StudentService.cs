@@ -9,18 +9,18 @@ namespace DigitalAppStructure2.SolidPrinciple
           _repo=repo;
         }
 
-        public IEnumerable<Student> GetStudents() => _repo.GetList();
+        public IEnumerable<UserList> GetStudents() => _repo.GetList();
 
-        public Student GetStdById(int id)
+        public UserList GetStdById(int id)
         {
             return _repo.GetStudentById(id);
         }
 
-        public void AddStd(Student std)
+        public void AddStd(UserList std)
         {
 
         }
         public void DeleteStd(int id) { }
-        public void UpdateStd(Student s) { }
+        public void UpdateStd(UserList s) { }
     }
 }

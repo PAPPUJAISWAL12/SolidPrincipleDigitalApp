@@ -4,10 +4,10 @@ namespace DigitalAppStructure2.SolidPrinciple
 {
     public interface IStudentService
     {
-        IEnumerable<Student> GetStudents();
-        Student GetStdById(int id);
-        void AddStd(Student std);
-        void UpdateStd(Student std);
+        IEnumerable<UserList> GetStudents();
+        UserList GetStdById(int id);
+        void AddStd(UserList std);
+        void UpdateStd(UserList std);
         void DeleteStd(int id);
     }
 }

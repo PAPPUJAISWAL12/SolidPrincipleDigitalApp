@@ -1,13 +1,26 @@
-﻿@model IEnumerable<Student>
-<div class="d-flex flex-wrap flex-md-row">
-    @foreach(var i in Model)
+﻿@model IEnumerable<UserListEdit>
+
+    <a asp-action="Create" asp-controller="Home" class="text-white py-2.5 px-5 rounded-lg bg-blue-600 hover:bg-blue-800 focus:ring-blue-300 focus:ountline-none focus:ring">Add New User</a>
+<div class="flex flex-wrap gap-2">
+    @if (Model.Count() > 0 || Model!=null)
     {
-        <div class="card m-3">
-            <div class="card-body">
-                <p>@i.Id</p>
-                <p>@i.Name</p>
-                <a asp-action="Details" asp-route-id="@i.encId" >Details</a>
+        foreach (var i in Model)
+        {
+            <div class="card m-3">
+                <div class="card-body">
+                    <p>@i.UserId</p>
+                    <p>@i.UserName</p>
+                    <a asp-action="Details" asp-route-id="@i.EncId">Details</a>
+                </div>
             </div>
+        }
+        
+    }
+    else
+    {
+        <div class="text-gray-800" >
+            <p >Data not found</p>
         </div>
+        
     }
 </div>

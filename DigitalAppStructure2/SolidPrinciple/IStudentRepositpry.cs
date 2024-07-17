@@ -4,11 +4,11 @@ namespace DigitalAppStructure2.SolidPrinciple
 {
     public interface IStudentRepositpry
     {
-        IEnumerable<Student> GetList();
-        Student GetStudentById(int id);
+        IEnumerable<UserList> GetList();
+        UserList GetStudentById(int id);
 
-        void AddStudent(Student std);
-        void UpdateStudent(Student std);
+        void AddStudent(UserList std);
+        void UpdateStudent(UserList std);
         void DeleteStudent(int id);
     }
 }

@@ -3,44 +3,48 @@
   "WorkspaceRootPath": "H:\\visual studio\\DigitalAppStructure2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{71772ADC-AF5E-4E70-B2BE-CCFC3BF5ED38}|DigitalAppStructure2\\DigitalAppStructure2.csproj|h:\\visual studio\\digitalappstructure2\\digitalappstructure2\\security\\datasecurityprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71772ADC-AF5E-4E70-B2BE-CCFC3BF5ED38}|DigitalAppStructure2\\DigitalAppStructure2.csproj|solutionrelative:digitalappstructure2\\security\\datasecurityprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{71772ADC-AF5E-4E70-B2BE-CCFC3BF5ED38}|DigitalAppStructure2\\DigitalAppStructure2.csproj|h:\\visual studio\\digitalappstructure2\\digitalappstructure2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71772ADC-AF5E-4E70-B2BE-CCFC3BF5ED38}|DigitalAppStructure2\\DigitalAppStructure2.csproj|solutionrelative:digitalappstructure2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71772ADC-AF5E-4E70-B2BE-CCFC3BF5ED38}|DigitalAppStructure2\\DigitalAppStructure2.csproj|h:\\visual studio\\digitalappstructure2\\digitalappstructure2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71772ADC-AF5E-4E70-B2BE-CCFC3BF5ED38}|DigitalAppStructure2\\DigitalAppStructure2.csproj|solutionrelative:digitalappstructure2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{71772ADC-AF5E-4E70-B2BE-CCFC3BF5ED38}|DigitalAppStructure2\\DigitalAppStructure2.csproj|h:\\visual studio\\digitalappstructure2\\digitalappstructure2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{71772ADC-AF5E-4E70-B2BE-CCFC3BF5ED38}|DigitalAppStructure2\\DigitalAppStructure2.csproj|solutionrelative:digitalappstructure2\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71772ADC-AF5E-4E70-B2BE-CCFC3BF5ED38}|DigitalAppStructure2\\DigitalAppStructure2.csproj|h:\\visual studio\\digitalappstructure2\\digitalappstructure2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71772ADC-AF5E-4E70-B2BE-CCFC3BF5ED38}|DigitalAppStructure2\\DigitalAppStructure2.csproj|solutionrelative:digitalappstructure2\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{71772ADC-AF5E-4E70-B2BE-CCFC3BF5ED38}|DigitalAppStructure2\\DigitalAppStructure2.csproj|h:\\visual studio\\digitalappstructure2\\digitalappstructure2\\models\\userlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71772ADC-AF5E-4E70-B2BE-CCFC3BF5ED38}|DigitalAppStructure2\\DigitalAppStructure2.csproj|solutionrelative:digitalappstructure2\\models\\userlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71772ADC-AF5E-4E70-B2BE-CCFC3BF5ED38}|DigitalAppStructure2\\DigitalAppStructure2.csproj|h:\\visual studio\\digitalappstructure2\\digitalappstructure2\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71772ADC-AF5E-4E70-B2BE-CCFC3BF5ED38}|DigitalAppStructure2\\DigitalAppStructure2.csproj|solutionrelative:digitalappstructure2\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{71772ADC-AF5E-4E70-B2BE-CCFC3BF5ED38}|DigitalAppStructure2\\DigitalAppStructure2.csproj|h:\\visual studio\\digitalappstructure2\\digitalappstructure2\\models\\cruddigitalappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71772ADC-AF5E-4E70-B2BE-CCFC3BF5ED38}|DigitalAppStructure2\\DigitalAppStructure2.csproj|solutionrelative:digitalappstructure2\\models\\cruddigitalappcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71772ADC-AF5E-4E70-B2BE-CCFC3BF5ED38}|DigitalAppStructure2\\DigitalAppStructure2.csproj|h:\\visual studio\\digitalappstructure2\\digitalappstructure2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71772ADC-AF5E-4E70-B2BE-CCFC3BF5ED38}|DigitalAppStructure2\\DigitalAppStructure2.csproj|solutionrelative:digitalappstructure2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{71772ADC-AF5E-4E70-B2BE-CCFC3BF5ED38}|DigitalAppStructure2\\DigitalAppStructure2.csproj|h:\\visual studio\\digitalappstructure2\\digitalappstructure2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{71772ADC-AF5E-4E70-B2BE-CCFC3BF5ED38}|DigitalAppStructure2\\DigitalAppStructure2.csproj|solutionrelative:digitalappstructure2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71772ADC-AF5E-4E70-B2BE-CCFC3BF5ED38}|DigitalAppStructure2\\DigitalAppStructure2.csproj|h:\\visual studio\\digitalappstructure2\\digitalappstructure2\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{71772ADC-AF5E-4E70-B2BE-CCFC3BF5ED38}|DigitalAppStructure2\\DigitalAppStructure2.csproj|solutionrelative:digitalappstructure2\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71772ADC-AF5E-4E70-B2BE-CCFC3BF5ED38}|DigitalAppStructure2\\DigitalAppStructure2.csproj|h:\\visual studio\\digitalappstructure2\\digitalappstructure2\\solidprinciple\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71772ADC-AF5E-4E70-B2BE-CCFC3BF5ED38}|DigitalAppStructure2\\DigitalAppStructure2.csproj|solutionrelative:digitalappstructure2\\solidprinciple\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{71772ADC-AF5E-4E70-B2BE-CCFC3BF5ED38}|DigitalAppStructure2\\DigitalAppStructure2.csproj|h:\\visual studio\\digitalappstructure2\\digitalappstructure2\\solidprinciple\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71772ADC-AF5E-4E70-B2BE-CCFC3BF5ED38}|DigitalAppStructure2\\DigitalAppStructure2.csproj|solutionrelative:digitalappstructure2\\solidprinciple\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{71772ADC-AF5E-4E70-B2BE-CCFC3BF5ED38}|DigitalAppStructure2\\DigitalAppStructure2.csproj|h:\\visual studio\\digitalappstructure2\\digitalappstructure2\\solidprinciple\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71772ADC-AF5E-4E70-B2BE-CCFC3BF5ED38}|DigitalAppStructure2\\DigitalAppStructure2.csproj|solutionrelative:digitalappstructure2\\solidprinciple\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71772ADC-AF5E-4E70-B2BE-CCFC3BF5ED38}|DigitalAppStructure2\\DigitalAppStructure2.csproj|h:\\visual studio\\digitalappstructure2\\digitalappstructure2\\solidprinciple\\istudentrepositpry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71772ADC-AF5E-4E70-B2BE-CCFC3BF5ED38}|DigitalAppStructure2\\DigitalAppStructure2.csproj|solutionrelative:digitalappstructure2\\solidprinciple\\istudentrepositpry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{71772ADC-AF5E-4E70-B2BE-CCFC3BF5ED38}|DigitalAppStructure2\\DigitalAppStructure2.csproj|h:\\visual studio\\digitalappstructure2\\digitalappstructure2\\security\\datasecurityprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71772ADC-AF5E-4E70-B2BE-CCFC3BF5ED38}|DigitalAppStructure2\\DigitalAppStructure2.csproj|solutionrelative:digitalappstructure2\\security\\datasecurityprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71772ADC-AF5E-4E70-B2BE-CCFC3BF5ED38}|DigitalAppStructure2\\DigitalAppStructure2.csproj|h:\\visual studio\\digitalappstructure2\\digitalappstructure2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{71772ADC-AF5E-4E70-B2BE-CCFC3BF5ED38}|DigitalAppStructure2\\DigitalAppStructure2.csproj|solutionrelative:digitalappstructure2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{71772ADC-AF5E-4E70-B2BE-CCFC3BF5ED38}|DigitalAppStructure2\\DigitalAppStructure2.csproj|h:\\visual studio\\digitalappstructure2\\digitalappstructure2\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71772ADC-AF5E-4E70-B2BE-CCFC3BF5ED38}|DigitalAppStructure2\\DigitalAppStructure2.csproj|solutionrelative:digitalappstructure2\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71772ADC-AF5E-4E70-B2BE-CCFC3BF5ED38}|DigitalAppStructure2\\DigitalAppStructure2.csproj|h:\\visual studio\\digitalappstructure2\\digitalappstructure2\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{71772ADC-AF5E-4E70-B2BE-CCFC3BF5ED38}|DigitalAppStructure2\\DigitalAppStructure2.csproj|solutionrelative:digitalappstructure2\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{71772ADC-AF5E-4E70-B2BE-CCFC3BF5ED38}|DigitalAppStructure2\\DigitalAppStructure2.csproj|h:\\visual studio\\digitalappstructure2\\digitalappstructure2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -54,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,53 +74,80 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DataSecurityProvider.cs",
-              "DocumentMoniker": "H:\\visual studio\\DigitalAppStructure2\\DigitalAppStructure2\\Security\\DataSecurityProvider.cs",
-              "RelativeDocumentMoniker": "DigitalAppStructure2\\Security\\DataSecurityProvider.cs",
-              "ToolTip": "H:\\visual studio\\DigitalAppStructure2\\DigitalAppStructure2\\Security\\DataSecurityProvider.cs",
-              "RelativeToolTip": "DigitalAppStructure2\\Security\\DataSecurityProvider.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T15:12:05.567Z",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "H:\\visual studio\\DigitalAppStructure2\\DigitalAppStructure2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DigitalAppStructure2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "H:\\visual studio\\DigitalAppStructure2\\DigitalAppStructure2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DigitalAppStructure2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABkAAAAAAAAAAABYvZQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-16T15:02:44.837Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
+              "Title": "CrudDigitalAppContext.cs",
+              "DocumentMoniker": "H:\\visual studio\\DigitalAppStructure2\\DigitalAppStructure2\\Models\\CrudDigitalAppContext.cs",
+              "RelativeDocumentMoniker": "DigitalAppStructure2\\Models\\CrudDigitalAppContext.cs",
+              "ToolTip": "H:\\visual studio\\DigitalAppStructure2\\DigitalAppStructure2\\Models\\CrudDigitalAppContext.cs",
+              "RelativeToolTip": "DigitalAppStructure2\\Models\\CrudDigitalAppContext.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-16T14:26:44.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserList.cs",
+              "DocumentMoniker": "H:\\visual studio\\DigitalAppStructure2\\DigitalAppStructure2\\Models\\UserList.cs",
+              "RelativeDocumentMoniker": "DigitalAppStructure2\\Models\\UserList.cs",
+              "ToolTip": "H:\\visual studio\\DigitalAppStructure2\\DigitalAppStructure2\\Models\\UserList.cs",
+              "RelativeToolTip": "DigitalAppStructure2\\Models\\UserList.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAA4wAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T15:00:46.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "H:\\visual studio\\DigitalAppStructure2\\DigitalAppStructure2\\SolidPrinciple\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "DigitalAppStructure2\\SolidPrinciple\\StudentRepository.cs",
+              "ToolTip": "H:\\visual studio\\DigitalAppStructure2\\DigitalAppStructure2\\SolidPrinciple\\StudentRepository.cs",
+              "RelativeToolTip": "DigitalAppStructure2\\SolidPrinciple\\StudentRepository.cs",
+              "ViewState": "AQIAAAYAAADAzMzMzMwkwAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-14T15:06:08.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "HomeController.cs",
               "DocumentMoniker": "H:\\visual studio\\DigitalAppStructure2\\DigitalAppStructure2\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "DigitalAppStructure2\\Controllers\\HomeController.cs",
               "ToolTip": "H:\\visual studio\\DigitalAppStructure2\\DigitalAppStructure2\\Controllers\\HomeController.cs",
               "RelativeToolTip": "DigitalAppStructure2\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAABIAAACAmZmZmZktwB4AAAAuAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAwAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-11T15:19:23.844Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "H:\\visual studio\\DigitalAppStructure2\\DigitalAppStructure2\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "DigitalAppStructure2\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "H:\\visual studio\\DigitalAppStructure2\\DigitalAppStructure2\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "DigitalAppStructure2\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAsAAAAAZmZmZmb2vxIAAAApAAAA",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "H:\\visual studio\\DigitalAppStructure2\\DigitalAppStructure2\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DigitalAppStructure2\\Views\\Home\\Index.cshtml",
+              "ToolTip": "H:\\visual studio\\DigitalAppStructure2\\DigitalAppStructure2\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DigitalAppStructure2\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-10T14:48:10.073Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "H:\\visual studio\\DigitalAppStructure2\\DigitalAppStructure2\\Program.cs",
-              "RelativeDocumentMoniker": "DigitalAppStructure2\\Program.cs",
-              "ToolTip": "H:\\visual studio\\DigitalAppStructure2\\DigitalAppStructure2\\Program.cs",
-              "RelativeToolTip": "DigitalAppStructure2\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-10T14:32:09.806Z",
+              "WhenOpened": "2024-07-11T14:25:34.087Z",
               "EditorCaption": ""
             },
             {
@@ -127,27 +158,39 @@
               "RelativeDocumentMoniker": "DigitalAppStructure2\\SolidPrinciple\\IStudentService.cs",
               "ToolTip": "H:\\visual studio\\DigitalAppStructure2\\DigitalAppStructure2\\SolidPrinciple\\IStudentService.cs",
               "RelativeToolTip": "DigitalAppStructure2\\SolidPrinciple\\IStudentService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAoAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T14:39:20.944Z",
+              "WhenOpened": "2024-07-16T14:21:53.119Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "H:\\visual studio\\DigitalAppStructure2\\DigitalAppStructure2\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "DigitalAppStructure2\\Views\\Home\\Index.cshtml",
-              "ToolTip": "H:\\visual studio\\DigitalAppStructure2\\DigitalAppStructure2\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "DigitalAppStructure2\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA/AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-11T14:25:34.087Z",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "H:\\visual studio\\DigitalAppStructure2\\DigitalAppStructure2\\appsettings.json",
+              "RelativeDocumentMoniker": "DigitalAppStructure2\\appsettings.json",
+              "ToolTip": "H:\\visual studio\\DigitalAppStructure2\\DigitalAppStructure2\\appsettings.json",
+              "RelativeToolTip": "DigitalAppStructure2\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-14T14:51:39.285Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
+              "Title": "DataSecurityProvider.cs",
+              "DocumentMoniker": "H:\\visual studio\\DigitalAppStructure2\\DigitalAppStructure2\\Security\\DataSecurityProvider.cs",
+              "RelativeDocumentMoniker": "DigitalAppStructure2\\Security\\DataSecurityProvider.cs",
+              "ToolTip": "H:\\visual studio\\DigitalAppStructure2\\DigitalAppStructure2\\Security\\DataSecurityProvider.cs",
+              "RelativeToolTip": "DigitalAppStructure2\\Security\\DataSecurityProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T15:12:05.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Student.cs",
               "DocumentMoniker": "H:\\visual studio\\DigitalAppStructure2\\DigitalAppStructure2\\Models\\Student.cs",
               "RelativeDocumentMoniker": "DigitalAppStructure2\\Models\\Student.cs",
@@ -155,12 +198,11 @@
               "RelativeToolTip": "DigitalAppStructure2\\Models\\Student.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-12T15:13:33.962Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T15:13:33.962Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "Details.cshtml",
               "DocumentMoniker": "H:\\visual studio\\DigitalAppStructure2\\DigitalAppStructure2\\Views\\Home\\Details.cshtml",
               "RelativeDocumentMoniker": "DigitalAppStructure2\\Views\\Home\\Details.cshtml",
@@ -168,38 +210,11 @@
               "RelativeToolTip": "DigitalAppStructure2\\Views\\Home\\Details.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-12T14:54:31.695Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-12T14:54:31.695Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "IStudentRepositpry.cs",
-              "DocumentMoniker": "H:\\visual studio\\DigitalAppStructure2\\DigitalAppStructure2\\SolidPrinciple\\IStudentRepositpry.cs",
-              "RelativeDocumentMoniker": "DigitalAppStructure2\\SolidPrinciple\\IStudentRepositpry.cs",
-              "ToolTip": "H:\\visual studio\\DigitalAppStructure2\\DigitalAppStructure2\\SolidPrinciple\\IStudentRepositpry.cs",
-              "RelativeToolTip": "DigitalAppStructure2\\SolidPrinciple\\IStudentRepositpry.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T15:16:22.367Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "StudentService.cs",
-              "DocumentMoniker": "H:\\visual studio\\DigitalAppStructure2\\DigitalAppStructure2\\SolidPrinciple\\StudentService.cs",
-              "RelativeDocumentMoniker": "DigitalAppStructure2\\SolidPrinciple\\StudentService.cs",
-              "ToolTip": "H:\\visual studio\\DigitalAppStructure2\\DigitalAppStructure2\\SolidPrinciple\\StudentService.cs",
-              "RelativeToolTip": "DigitalAppStructure2\\SolidPrinciple\\StudentService.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAgwA8AAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-11T14:37:59.661Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "H:\\visual studio\\DigitalAppStructure2\\DigitalAppStructure2\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "DigitalAppStructure2\\Views\\_ViewStart.cshtml",
