@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\visual studio\\DigitalAppStructure2\\DigitalAppStructure2\\DigitalAppStructure2.csproj": {}
+    "C:\\Users\\Pappu jaiswal\\OneDrive\\Desktop\\DigitalAppStructure2\\DigitalAppStructure2\\DigitalAppStructure2.csproj": {}
   },
   "projects": {
-    "H:\\visual studio\\DigitalAppStructure2\\DigitalAppStructure2\\DigitalAppStructure2.csproj": {
+    "C:\\Users\\Pappu jaiswal\\OneDrive\\Desktop\\DigitalAppStructure2\\DigitalAppStructure2\\DigitalAppStructure2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\visual studio\\DigitalAppStructure2\\DigitalAppStructure2\\DigitalAppStructure2.csproj",
+        "projectUniqueName": "C:\\Users\\Pappu jaiswal\\OneDrive\\Desktop\\DigitalAppStructure2\\DigitalAppStructure2\\DigitalAppStructure2.csproj",
         "projectName": "DigitalAppStructure2",
-        "projectPath": "H:\\visual studio\\DigitalAppStructure2\\DigitalAppStructure2\\DigitalAppStructure2.csproj",
+        "projectPath": "C:\\Users\\Pappu jaiswal\\OneDrive\\Desktop\\DigitalAppStructure2\\DigitalAppStructure2\\DigitalAppStructure2.csproj",
         "packagesPath": "C:\\Users\\Pappu jaiswal\\.nuget\\packages\\",
-        "outputPath": "H:\\visual studio\\DigitalAppStructure2\\DigitalAppStructure2\\obj\\",
+        "outputPath": "C:\\Users\\Pappu jaiswal\\OneDrive\\Desktop\\DigitalAppStructure2\\DigitalAppStructure2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

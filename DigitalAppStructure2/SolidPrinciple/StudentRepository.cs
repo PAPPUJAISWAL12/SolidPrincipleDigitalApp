@@ -17,6 +17,8 @@ namespace DigitalAppStructure2.SolidPrinciple
 
         public void AddStudent(UserList user)
         {
+            _appContext.Add(user);
+            _appContext.SaveChanges();
         }
 
         public UserList GetStudentById(int id)

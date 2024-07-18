@@ -42,7 +42,7 @@ namespace DigitalAppStructure2.Controllers
         public IActionResult Details(string id)
         {
             int userid = Convert.ToInt32(_protector.Unprotect(id));
-            UserList std = _service.GetStdById(userid);           
+            UserList std = _service.GetStdById(userid);
             return View(std);
         }
 
@@ -70,9 +70,29 @@ namespace DigitalAppStructure2.Controllers
                 }
                 edit.UserProfile = filename;
             }
+            //Mapping
+            UserList u = new()
+            {
+                UserId = edit.UserId,
+                EmailAddress = edit.EmailAddress,
+                UserAddress = edit.UserAddress,
+                UserName = edit.UserName,
+                UserPassword = edit.UserPassword,
+                UserProfile = edit.UserProfile,
+                UserRole = edit.UserRole,
+                UserStatus = true
+            };
+            if (u != null)
+            {
+                _service.AddStd(u);
+                return Json("succes");
+            }
+            else
+            {
+                return Json("failed");
+            }
 
-
-            return Json("succes");
+          
         }
     }
 }

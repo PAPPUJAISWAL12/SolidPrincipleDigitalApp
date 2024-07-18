@@ -18,7 +18,7 @@ namespace DigitalAppStructure2.SolidPrinciple
 
         public void AddStd(UserList std)
         {
-
+            _repo.AddStudent(std);
         }
         public void DeleteStd(int id) { }
         public void UpdateStd(UserList s) { }
