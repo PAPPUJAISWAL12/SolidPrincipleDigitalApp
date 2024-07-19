@@ -18,9 +18,7 @@ namespace DigitalAppStructure2.Models
 
         [Display(Name = "Email-Address")]
         [Required(ErrorMessage = "Please, Enter your Email-Address.")]
-        public string EmailAddress { get; set; } = null!;
-
-      
+        public string EmailAddress { get; set; } = null!;      
         public string UserProfile { get; set; } = null!;
 
         public string UserAddress { get; set; } = null!;

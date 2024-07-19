@@ -29,6 +29,8 @@ namespace DigitalAppStructure2.SolidPrinciple
         }
         public void UpdateStudent(UserList user)
         {
+            _appContext.Update(user);
+            _appContext.SaveChanges();
         }
         public void DeleteStudent(int id)
         {
