@@ -40,14 +40,14 @@
    </div>
 </form>
 <script>
-    $(document).ready(function () {
-        PostUserData = function (e) {
-            if (e.responseText == "success") {
-                alert("Data save succuccessfuly");
-                $('.text-empty').val('');
-            } else {
-                alert("Failed");
-            }
+    PostUserData = function (e) {
+        if (e.responseText == "success") {
+            alert("Data save succuccessfuly");
+            $('.text-empty').val('');
+        } else {
+            alert("Failed");
         }
-    });
+    }
+
+   
 </script>

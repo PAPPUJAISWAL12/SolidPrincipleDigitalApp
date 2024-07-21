@@ -34,6 +34,9 @@ namespace DigitalAppStructure2.SolidPrinciple
         }
         public void DeleteStudent(int id)
         {
+            var user = _appContext.UserLists.Where(x => x.UserId == id).FirstOrDefault();
+            _appContext.UserLists.Remove(user!);
+            _appContext.SaveChanges();
         }
 
     }

@@ -24,6 +24,11 @@ namespace DigitalAppStructure2.Controllers
         }
         public IActionResult Index()
         {
+            return View();
+        }
+
+        public IActionResult GetUserList()
+        {
             var s = _service.GetStudents();
             var u = s.Select(e => new UserListEdit
             {
@@ -34,9 +39,9 @@ namespace DigitalAppStructure2.Controllers
                 UserPassword = e.UserPassword,
                 UserProfile = e.UserProfile,
                 EncId = _protector.Protect(e.UserId.ToString()),
-                UserRole=e.UserRole
+                UserRole = e.UserRole
             }).ToList();
-            return View(u);
+            return PartialView("_GetUserList",u);
         }
 
         public IActionResult Details(string id)
@@ -145,6 +150,20 @@ namespace DigitalAppStructure2.Controllers
             _service.UpdateStd(u);
             return Json(edit);
 
+        }
+
+        [HttpGet]
+        public IActionResult Delete(int id)
+        {
+            try
+            {
+                _service.DeleteStd(id);
+                return Content("success");
+            }
+            catch (Exception ex)
+            {
+                return Json(ex,"Failed");
+            }
         }
     }
 }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DigitalAppStructure2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0673f43358e75c954c955b06cd88ee0e0fd22300")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+983850ca9257629bb4bae8863c61a1232e9c3e01")]
 [assembly: System.Reflection.AssemblyProductAttribute("DigitalAppStructure2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DigitalAppStructure2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
